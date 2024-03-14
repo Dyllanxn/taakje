@@ -1,0 +1,14 @@
+C:\Users\dylla\Documents\HOGENT\Programmeren\PortfolioProgrammeren\D01bmi\bin\Debug\net6.0\D01bmi.exe
+C:\Users\dylla\Documents\HOGENT\Programmeren\PortfolioProgrammeren\D01bmi\bin\Debug\net6.0\D01bmi.deps.json
+C:\Users\dylla\Documents\HOGENT\Programmeren\PortfolioProgrammeren\D01bmi\bin\Debug\net6.0\D01bmi.runtimeconfig.json
+C:\Users\dylla\Documents\HOGENT\Programmeren\PortfolioProgrammeren\D01bmi\bin\Debug\net6.0\D01bmi.dll
+C:\Users\dylla\Documents\HOGENT\Programmeren\PortfolioProgrammeren\D01bmi\bin\Debug\net6.0\D01bmi.pdb
+C:\Users\dylla\Documents\HOGENT\Programmeren\PortfolioProgrammeren\D01bmi\obj\Debug\net6.0\D01bmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylla\Documents\HOGENT\Programmeren\PortfolioProgrammeren\D01bmi\obj\Debug\net6.0\D01bmi.AssemblyInfoInputs.cache
+C:\Users\dylla\Documents\HOGENT\Programmeren\PortfolioProgrammeren\D01bmi\obj\Debug\net6.0\D01bmi.AssemblyInfo.cs
+C:\Users\dylla\Documents\HOGENT\Programmeren\PortfolioProgrammeren\D01bmi\obj\Debug\net6.0\D01bmi.csproj.CoreCompileInputs.cache
+C:\Users\dylla\Documents\HOGENT\Programmeren\PortfolioProgrammeren\D01bmi\obj\Debug\net6.0\D01bmi.dll
+C:\Users\dylla\Documents\HOGENT\Programmeren\PortfolioProgrammeren\D01bmi\obj\Debug\net6.0\refint\D01bmi.dll
+C:\Users\dylla\Documents\HOGENT\Programmeren\PortfolioProgrammeren\D01bmi\obj\Debug\net6.0\D01bmi.pdb
+C:\Users\dylla\Documents\HOGENT\Programmeren\PortfolioProgrammeren\D01bmi\obj\Debug\net6.0\D01bmi.genruntimeconfig.cache
+C:\Users\dylla\Documents\HOGENT\Programmeren\PortfolioProgrammeren\D01bmi\obj\Debug\net6.0\ref\D01bmi.dll
